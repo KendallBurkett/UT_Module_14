@@ -8,7 +8,6 @@
 - [Data Files](#data-files)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Author](#author)
 
