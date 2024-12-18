@@ -50,11 +50,11 @@ The application uses **HTML**, **JavaScript**, and the **D3.js** library to load
 ## Installation
 
 1. **Prerequisites**:
-- A modern web browser (Chrome, Firefox, Edge, etc.)
-- Internet connection (to access external D3.js and Plotly.js libraries)
+   - A modern web browser (Chrome, Firefox, Edge, etc.)
+   - Internet connection (to access external D3.js and Plotly.js libraries)
 
 2. **Setup**:
-- Clone this repository or download the project files.
+   - Clone this repository or download the project files.
 ---
 
 ## Results
@@ -62,10 +62,10 @@ The application uses **HTML**, **JavaScript**, and the **D3.js** library to load
 ### Key Insights:
 
 1.	Top Bacteria Cultures:
-- The most common bacterial cultures differ across test subjects.
+   - The most common bacterial cultures differ across test subjects.
 2.	Diversity of Bacteria:
-- Bubble charts highlight the richness of bacterial species in the samples.
+   - Bubble charts highlight the richness of bacterial species in the samples.
 
 Example Outputs:
-- Bar Chart: Displays the top 10 bacterial OTUs found in a specific sample.
-- Bubble Chart: Shows bacterial cultures sized by their abundance.
+   - Bar Chart: Displays the top 10 bacterial OTUs found in a specific sample.
+   - Bubble Chart: Shows bacterial cultures sized by their abundance.
