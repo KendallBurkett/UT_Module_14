@@ -1,6 +1,5 @@
 ## Interactive Visualizations
 ---
-
 # Belly Button Biodiversity Dashboard
 
 ## Table of Contents
