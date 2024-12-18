@@ -69,3 +69,11 @@ The application uses **HTML**, **JavaScript**, and the **D3.js** library to load
 Example Outputs:
    - Bar Chart: Displays the top 10 bacterial OTUs found in a specific sample.
    - Bubble Chart: Shows bacterial cultures sized by their abundance.
+   ---
+
+## Author
+
+**Kendall Burkett**  
+https://github.com/KendallBurkett?tab=repositories
+ 
+kbz1987@icloud.com
