@@ -62,9 +62,9 @@ The application uses **HTML**, **JavaScript**, and the **D3.js** library to load
 ### Key Insights:
 
 1.	Top Bacteria Cultures:
-   - The most common bacterial cultures differ across test subjects.
+      - The most common bacterial cultures differ across test subjects.
 2.	Diversity of Bacteria:
-   - Bubble charts highlight the richness of bacterial species in the samples.
+      - Bubble charts highlight the richness of bacterial species in the samples.
 
 Example Outputs:
    - Bar Chart: Displays the top 10 bacterial OTUs found in a specific sample.
